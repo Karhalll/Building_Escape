@@ -23,5 +23,15 @@
 		"file": "E:\\\\GamesDevelopement\\\\UE_Udemy_Remastred\\\\04_Building_Escape\\\\Building_Escape\\\\Source\\\\Building_Escape\\\\Building_EscapeGameModeBase.h",
 		"command": "cl.exe @\"E:\\GamesDevelopement\\UE_Udemy_Remastred\\04_Building_Escape\\Building_Escape\\.vscode\\compileCommands_Default\\Building_Escape.182.rsp\"",
 		"directory": "E:\\Program Files (x86)\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\GamesDevelopement\\\\UE_Udemy_Remastred\\\\04_Building_Escape\\\\Building_Escape\\\\Source\\\\Building_Escape\\\\WorldPosition.cpp",
+		"command": "cl.exe @\"E:\\GamesDevelopement\\UE_Udemy_Remastred\\04_Building_Escape\\Building_Escape\\.vscode\\compileCommands_Default\\Building_Escape.182.rsp\"",
+		"directory": "E:\\Program Files (x86)\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\GamesDevelopement\\\\UE_Udemy_Remastred\\\\04_Building_Escape\\\\Building_Escape\\\\Source\\\\Building_Escape\\\\WorldPosition.h",
+		"command": "cl.exe @\"E:\\GamesDevelopement\\UE_Udemy_Remastred\\04_Building_Escape\\Building_Escape\\.vscode\\compileCommands_Default\\Building_Escape.182.rsp\"",
+		"directory": "E:\\Program Files (x86)\\Epic Games\\UE_4.26\\Engine\\Source"
 	}
 ]
