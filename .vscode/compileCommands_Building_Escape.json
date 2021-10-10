@@ -25,6 +25,16 @@
 		"directory": "E:\\Program Files (x86)\\Epic Games\\UE_4.26\\Engine\\Source"
 	},
 	{
+		"file": "E:\\\\GamesDevelopement\\\\UE_Udemy_Remastred\\\\04_Building_Escape\\\\Building_Escape\\\\Source\\\\Building_Escape\\\\OpenDoor.cpp",
+		"command": "cl.exe @\"E:\\GamesDevelopement\\UE_Udemy_Remastred\\04_Building_Escape\\Building_Escape\\.vscode\\compileCommands_Building_Escape\\Building_Escape.182.rsp\"",
+		"directory": "E:\\Program Files (x86)\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\GamesDevelopement\\\\UE_Udemy_Remastred\\\\04_Building_Escape\\\\Building_Escape\\\\Source\\\\Building_Escape\\\\OpenDoor.h",
+		"command": "cl.exe @\"E:\\GamesDevelopement\\UE_Udemy_Remastred\\04_Building_Escape\\Building_Escape\\.vscode\\compileCommands_Building_Escape\\Building_Escape.182.rsp\"",
+		"directory": "E:\\Program Files (x86)\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
 		"file": "E:\\\\GamesDevelopement\\\\UE_Udemy_Remastred\\\\04_Building_Escape\\\\Building_Escape\\\\Source\\\\Building_Escape\\\\WorldPosition.cpp",
 		"command": "cl.exe @\"E:\\GamesDevelopement\\UE_Udemy_Remastred\\04_Building_Escape\\Building_Escape\\.vscode\\compileCommands_Building_Escape\\Building_Escape.182.rsp\"",
 		"directory": "E:\\Program Files (x86)\\Epic Games\\UE_4.26\\Engine\\Source"
